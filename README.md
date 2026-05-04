@@ -5,7 +5,7 @@ Siamese change detection for LEVIR-CD using PyTorch, ResNet-18, CBAM, RAPIDS, an
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-red)
 ![License](https://img.shields.io/badge/License-MIT-green)
-[![Open in Colab](https://img.shields.io/badge/Open%20in-Colab-orange?logo=googlecolab)](https://colab.research.google.com/github/YOUR_USERNAME/satellite-change-detection/blob/main/notebooks/08_full_pipeline.ipynb)
+[![Open in Colab](https://img.shields.io/badge/Open%20in-Colab-orange?logo=googlecolab)](https://colab.research.google.com/github/Sanjay1712KSK/satellite-change-detection/blob/main/notebooks/08_full_pipeline.ipynb)
 
 ## Overview
 
